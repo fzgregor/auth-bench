@@ -1,0 +1,9 @@
+[submodule "highwayhash"]
+	path = highwayhash
+	url = git@github.com:rotschopf/highwayhash.git
+[submodule "libaesgcm"]
+	path = libaesgcm
+	url = git@bitbucket.org:rotschopf/libaesgcm.git
+[submodule "rdtsc"]
+	path = rdtsc
+	url = git@github.com:rotschopf/rdtsc.git
